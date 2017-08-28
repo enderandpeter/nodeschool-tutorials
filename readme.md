@@ -7,8 +7,7 @@ You can build and run it with a command like the following, starting in the work
     docker build -t enderandpeter/nodeschool .
 
 ## Windows
-    docker run -p 8080:80 -v //C/Users/me/nodetutorials:/home/node/www --name=nodeschool --restart=always -i 
-enderandpeter/nodeschool
+    docker run -p 8080:80 -v //C/Users/me/nodetutorials:/home/node/www --name=nodeschool --restart=always -i enderandpeter/nodeschool
 
 ## Linux or OS X
     docker run -p 8080:80 -v /path/to/nodetutorials:/home/node/www --name=nodeschool --restart=always -i enderandpeter/nodeschool
