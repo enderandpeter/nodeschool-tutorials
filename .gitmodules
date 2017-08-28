@@ -1,0 +1,6 @@
+[submodule "learnyounode"]
+	path = learnyounode
+	url = git@github.com:enderandpeter/learnyounode-solutions.git
+[submodule "scope-chains-closures"]
+	path = scope-chains-closures
+	url = git@github.com:enderandpeter/scope-chains-closures-solutions.git
