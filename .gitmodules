@@ -4,3 +4,6 @@
 [submodule "scope-chains-closures"]
 	path = scope-chains-closures
 	url = git@github.com:enderandpeter/scope-chains-closures-solutions.git
+[submodule "expressworkss"]
+	path = expressworks
+	url = git@github.com:enderandpeter/expressworks-solutions.git
