@@ -7,3 +7,6 @@
 [submodule "expressworkss"]
 	path = expressworks
 	url = git@github.com:enderandpeter/expressworks-solutions.git
+[submodule "stream-adventure"]
+	path = stream-adventure
+	url = git@github.com:enderandpeter/stream-adventure-solutions.git
