@@ -2,7 +2,7 @@ FROM node
 MAINTAINER Spencer Williams <spencer@aninternetpresence.net>
 
 RUN apt-get update \
-  && apt-get install apt-file vim mlocate man-db \
+  && apt-get install -y apt-file vim mlocate man-db \
   && apt-file update \
 	&& npm install -g learnyounode \
 	&& npm install -g scope-chains-closures \
