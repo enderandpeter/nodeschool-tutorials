@@ -10,3 +10,6 @@
 [submodule "stream-adventure"]
 	path = stream-adventure
 	url = git@github.com:enderandpeter/stream-adventure-solutions.git
+[submodule "learnyoureact"]
+	path = learnyoureact
+	url = git@github.com:enderandpeter/learnyoureact.git
