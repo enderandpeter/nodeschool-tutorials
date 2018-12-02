@@ -13,3 +13,6 @@
 [submodule "learnyoureact"]
 	path = learnyoureact
 	url = git@github.com:enderandpeter/learnyoureact.git
+[submodule "thinking-in-react"]
+	path = thinking-in-react
+	url = git@github.com:enderandpeter/thinking-in-react.git
