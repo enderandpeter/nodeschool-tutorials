@@ -14,4 +14,4 @@ You can build and run it with a command like the following, starting in the work
 
 You should be able to add whatever port bindings and volume bind mountings you would like, and any other paramters needed.
 
-Typically, you'd run this in detached state, but if you do on Windows at least, then it will keep restarting. You have to run it in interactive/attached mode, then press Ctrl+C, then you can bash into it with `docker exec -it nodeschool bash`, or do whatever you like with the running process.
+When you run the container, you'll be given a node command prompt. You can detach from the container by pressing Ctrl-P, Ctrl-Q, then you can bash into it with `docker exec -it nodeschool bash`, or run any command you like.
