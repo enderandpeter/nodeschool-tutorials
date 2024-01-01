@@ -16,3 +16,6 @@
 [submodule "thinking-in-react"]
 	path = thinking-in-react
 	url = git@github.com:enderandpeter/thinking-in-react.git
+[submodule "makemehapi"]
+	path = makemehapi
+	url = https://gitlab.com/enderandpeter-nodeschool/makemehapi.git
