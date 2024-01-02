@@ -19,3 +19,6 @@
 [submodule "makemehapi"]
 	path = makemehapi
 	url = https://gitlab.com/enderandpeter-nodeschool/makemehapi.git
+[submodule "kick-off-koa"]
+	path = kick-off-koa
+	url = https://gitlab.com/enderandpeter-nodeschool/kick-off-koa.git
