@@ -22,3 +22,6 @@
 [submodule "kick-off-koa"]
 	path = kick-off-koa
 	url = https://gitlab.com/enderandpeter-nodeschool/kick-off-koa.git
+[submodule "javascripting"]
+	path = javascripting
+	url = git@github.com:enderandpeter/javascripting.git
