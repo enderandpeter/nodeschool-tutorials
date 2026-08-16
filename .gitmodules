@@ -31,3 +31,6 @@
 [submodule "currying-workshopper"]
 	path = currying-workshopper
 	url = git@gitlab.com:enderandpeter-nodeschool/currying-workshopper.git
+[submodule "count-to-6"]
+	path = count-to-6
+	url = git@gitlab.com:enderandpeter-nodeschool/count-to-6.git
