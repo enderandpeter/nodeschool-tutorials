@@ -28,3 +28,6 @@
 [submodule "functional-javascript-workshop"]
 	path = functional-javascript-workshop
 	url = git@gitlab.com:enderandpeter-nodeschool/functional-javascript-workshop.git
+[submodule "currying-workshopper"]
+	path = currying-workshopper
+	url = git@gitlab.com:enderandpeter-nodeschool/currying-workshopper.git
