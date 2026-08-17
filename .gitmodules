@@ -34,3 +34,6 @@
 [submodule "count-to-6"]
 	path = count-to-6
 	url = git@gitlab.com:enderandpeter-nodeschool/count-to-6.git
+[submodule "js-best-practices"]
+	path = js-best-practices
+	url = git@gitlab.com:enderandpeter-nodeschool/js-best-practices.git
