@@ -37,3 +37,6 @@
 [submodule "js-best-practices"]
 	path = js-best-practices
 	url = git@gitlab.com:enderandpeter-nodeschool/js-best-practices.git
+[submodule "regex-adventure"]
+	path = regex-adventure
+	url = git@gitlab.com:enderandpeter-nodeschool/regex-adventure.git
